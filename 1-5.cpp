@@ -1,0 +1,4 @@
+class{
+int x;
+cout
+}
